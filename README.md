@@ -13,6 +13,8 @@
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=kidussolo&count_private=true_icons=true&locale=en" alt="kidussolo" />
 </div>
 </br>
+
+### By language
 <div>
 <img align="left" width="49%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidussolo&layout=compact&hide=html", alt="kidussolo">  
 </div>
