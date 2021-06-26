@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development, system design and devops
 - 🌱 I’m currently learning golang and kubernetes
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on twitter at @kidussolomon1 and on linkedin at https://www.linkedin.com/in/kidussolomon/
+- 📫 How to reach me on 
+  - twitter at @kidussolomon1 and on 
+  - linkedin at https://www.linkedin.com/in/kidussolomon/
 
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=kidussolo&label=Profile%20views&color=0e75b6&style=flat" alt="kidussolo" /> </span>
