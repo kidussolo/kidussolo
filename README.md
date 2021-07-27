@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kidus Solomon @kidussolo
-- 👀 I’m interested in web development, system design and devops
-- 🌱 I’m currently learning golang and kubernetes
+- 👀 I’m interested in Web development, System design and Devops
+- 🌱 I’m currently learning Golang, Kubernetes and Google cloud 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me on 
   - twitter at @kidussolomon1 and on 
