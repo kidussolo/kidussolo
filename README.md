@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Golang, Kubernetes and Google cloud 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me on 
-  - twitter at @kidussolomon1 and on 
+  - Linktree at https://linktr.ee/kidus_solo for all social media account links ;)
   - linkedin at https://www.linkedin.com/in/kidussolomon/
 
 
