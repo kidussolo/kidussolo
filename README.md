@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Kidus Solomon @kidussolo
+- Python, Django Developer 
 - 👀 I’m interested in Web development, System design and Devops
-- 🌱 I’m currently learning Golang, Kubernetes and Google cloud 
+- 🌱 I’m currently learning Golang, Kubernetes and Google cloud Platform
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me on 
-  - Linktree at https://linktr.ee/kidus_solo for all social media account links ;)
+  - Linktree at https://linktr.ee/kidus_solo
   - linkedin at https://www.linkedin.com/in/kidussolomon/
 
 
