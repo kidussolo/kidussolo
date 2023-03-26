@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me:
   - Linktree at https://linktr.ee/kidus_solo
-  - Linkedin at https://www.linkedin.com/in/kidussolomon/
 
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=kidussolo&label=Profile%20views&color=0e75b6&style=flat" alt="kidussolo" /> </span>
