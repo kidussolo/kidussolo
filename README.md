@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kidus Solomon @kidussolo
 - Python, Django Developer And Cloud Engineer | AWS | GCP
-- 👀 I’m interested in Web Development, System Design, Machine learning and Devops. Opensource projects
+- 👀 I’m interested in Web Development, System Design, Machine learning and Devops. Open source projects
 - 🌱 I’m currently learning Golang, Kubernetes and Google Cloud Platform
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me:
