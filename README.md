@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Kidus Solomon**
+# 👋 Hey there,
 
 ### 🐍 Python & Django Developer | ☁️ DevOps Enthusiast | Open Source Contributor  
 
