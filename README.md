@@ -1,6 +1,6 @@
 # 👋 Hey there,
 
-### 🐍 Python & Django Developer | ☁️ DevOps Enthusiast | Open Source Contributor  
+### 🐍 Python & Django Developer | ☁️ DevOps Enthusiast 
 
 ---
 
