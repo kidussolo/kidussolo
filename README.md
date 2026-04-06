@@ -36,7 +36,7 @@ I enjoy collaborating on **open source projects**, improving developer experienc
 🐍 Python (main) • 🦫 Go (learning) • ☕ JavaScript  
 
 **Frameworks & Libraries:**  
-🧩 Django • DRF • FastAPI • Flask • Celery  
+🧩 Django • DRF  • Django RQ • Celery  
 
 **Databases:**  
 🐘 PostgreSQL • Redis  
